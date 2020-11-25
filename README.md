@@ -19,6 +19,7 @@ Assuming you use [VS Code](https://code.visualstudio.com/) (Please don't use Sub
 Add the contents of settings.json to your current [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations). Restart VS Code for Magic.
 
 ☮️
+
 ![This is the way](/this-is-the-2d44c94da1.jpg?raw=true )
 
 *Beers paid for by @RedCarpetUp*
