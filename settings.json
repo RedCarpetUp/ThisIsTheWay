@@ -1,0 +1,72 @@
+{
+    //Unless you're the sharing kind
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.renderWhitespace": "all",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.scrollBeyondLastLine": false,
+    "editor.stablePeek": true,
+    "editor.tabCompletion": "on",
+    "editor.suggest.localityBonus": true,
+    "files.autoGuessEncoding": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "search.runInExtensionHost": true,
+    "search.showLineNumbers": true,
+    "search.smartCase": true,
+    "search.useGlobalIgnoreFiles": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "python.analysis.cachingLevel": "System",
+    "python.analysis.memory.keepLibraryLocalVariables": true,
+    "python.analysis.memory.keepLibraryAst": true,
+    "python.autoComplete.addBrackets": true,
+    "python.diagnostics.sourceMapsEnabled": true,
+    "editor.formatOnSave": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "python.workspaceSymbols.rebuildOnFileSave": false,
+    "editor.defaultFormatter": "ms-python.vscode-pylance",
+    "python.linting.pylintPath": "pylint ",
+    "errorLens.addAnnotationTextPrefixes": true,
+    "errorLens.fontStyleItalic": true,
+    "errorLens.gutterIconsEnabled": true,
+    "errorLens.onSave": true,
+    "errorLens.statusBarColorsEnabled": true,
+    "errorLens.statusBarMessageEnabled": true,
+    "git.suggestSmartCommit": false,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.mypy_cache": true,
+        "**/.pytest_cache": true,
+        "**/.vscode": true,
+        "**/node_modules": true,
+        "env*": true,
+        "node_modules": true,
+        "venv": true
+    },
+    "search.exclude": {
+        "**/.mypy_cache": true,
+        "**/env": true,
+        "**/venv": true
+    },
+    "files.watcherExclude": {
+        "**/.mypy_cache/**": true,
+        "**/env/**": true,
+        "**/venv/**": true,
+        "env-*": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    //Personal preference feel free to change if you are fancy and use zsh fish etc
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.typeCheckingMode": "basic",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.analysis.completeFunctionParens": true,
+    "python.formatting.provider": "black",
+    "python.linting.mypyEnabled": true
+}
