@@ -63,6 +63,9 @@
     "python.languageServer": "Pylance",
     "python.analysis.diagnosticMode": "workspace",
     "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": [
+        "apiv5"
+    ],
     "[python]": {
         "editor.defaultFormatter": "ms-python.python"
     },
