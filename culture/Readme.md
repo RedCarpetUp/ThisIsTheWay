@@ -15,3 +15,26 @@
 3.  Consistency - we will achieve hard standards of code consistency. Including expectation of IDE setup, git pull requests, etc.
 4.  Strong career achievement - The best companies in the world prefer an [Achievement data](https://www.businessinsider.in/A-head-recruiter-at-Amazon-says-the-best-resumes-are-data-based-and-theres-an-easy-formula-you-can-follow/articleshow/65235908.cms) based criteria for selecting candidates for jobs. Your college just gives you rote skills. You will build your achievements here.
 
+**Machine Learning Culture at RedCarpet**
+We thought it was important to put here
+
+We take inspiration from the team at Google Brain AI - possibly the best AI team in the world.
+
+- https://developers.google.com/machine-learning/rules-of-ml/
+
+>"do machine learning like the great engineer you are, not like the great machine learning expert you aren’t. Most of the problems you will face are, in fact, engineering problems. Even with all the resources of a great machine learning expert, most of the gains come from great features, not great machine learning algorithms".
+
+Based on best practices from Google, the ML/AI work at RedCarpet focuses a lot on the data versus the algorithms side. As part of the core ML team at RedCarpet, you will be expected to spend 80% of your time on data (stored in large databases - so SQL is a must), 19% of your time on business problems and 1% of your time (or even lesser) on algorithms. 
+
+- https://towardsdatascience.com/i-wasnt-getting-hired-as-a-data-scientist-so-i-sought-data-on-who-is-c59afd7d56f5
+- https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872
+- https://www.techrepublic.com/article/how-to-fail-as-a-data-scientist-3-common-mistakes/
+
+Business thinking + ML at RedCarpet
+====================================
+
+Successful ML professionals at the best ML companies spend  a significant amount of time in understanding the business and product. Because a data scientist needs to understand the business for which they are building. Have you used RedCarpet's app ? What data science can you do there ?
+
+If you work at RedCarpet, you will be asked to present your ML and data science in this way - https://rapidminer.com/resource/present-machine-learning-models/
+
+We strongly believe in no exaggerated differences between **"data scientist vs data analyst vs data engineer"** - other than to sell educational courses.
