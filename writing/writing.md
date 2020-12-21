@@ -1,4 +1,4 @@
-    - What is UX writing
+ - What is UX writing
         - [https://www.uxbooth.com/articles/what-is-ux-writing/](https://www.uxbooth.com/articles/what-is-ux-writing/)
         - [What does a UX Writer do at Google](https://blog.prototypr.io/interview-with-a-ux-writer-from-google-d465275109f0)
         - [https://design.google.com/jobs/ux-writer/](https://design.google.com/jobs/ux-writer/)
@@ -15,7 +15,7 @@
     - [Design for Honesty principle at RedCarpet](https://www.redcarpetup.com/2017/11/29/design-for-honesty/)
     - What is a brand ? Brent Beshore, CEO of private equity firm Adventur.es, was recently asked what a brand is. He replied: [Brand is the distribution of likely outcomes that you can expect from any company or person.](https://www.collaborativefund.com/blog/the-making-of-a-brand/)
     
-    - Day 1
+- Day 1
     - [Quick video intro to plain writing](https://www.youtube.com/watch?v=QtXSCwphuzg&list=PL8AE656E45B44EF1A&index=2)
     - [US Govt Plain Writing Guide](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
     - [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/)
