@@ -22,20 +22,20 @@
 -   Day 2
     -   Learn Material Design grid - [https://material.io/design/layout/understanding-layout.html\#usage](https://material.io/design/layout/understanding-layout.html#usage)
     -   Download [Material Design Sketch file](https://www.figma.com/community/file/778763161265841481) 
-    -   Clone [https://dribbble.com/shots/7065869-Minimal-Calendar-Concept](https://dribbble.com/shots/7065869-Minimal-Calendar-Concept) - pressure points are tabular design, text alignment, font sizing. Demonstrate android xml export . Use Material Components only. DO NOT CREATE YOUR OWN COMPONENTS.
+    -   Design a calendar. pressure points are tabular design, text alignment, font sizing. Demonstrate android xml export . Use Material Components only. DO NOT CREATE YOUR OWN COMPONENTS.
 -   Day 3
     -   Learn Material Design navigation - [https://material.io/design/navigation/understanding-navigation.html](https://material.io/design/navigation/understanding-navigation.html)
     -   Learn Material Design Bottom Sheet - [https://material.io/components/sheets-bottom)
-    -   Clone [https://dribbble.com/shots/10027425-Credit-Score-App](https://dribbble.com/shots/10027425-Credit-Score-App) - Use different kind of charts . Use Material Components only. DO NOT CREATE YOUR OWN COMPONENTS.
+    -   Design a credit score app. Use different kind of charts . Use Material Components only. DO NOT CREATE YOUR OWN COMPONENTS.
 -   Day 4
     -   read [https://uxdesign.cc/design-better-forms-96fadca0f49c](https://uxdesign.cc/design-better-forms-96fadca0f49c)
     -   read [https://material.io/components/text-fields](https://material.io/components/text-fields)
-    -   Clone [https://dribbble.com/shots/2062953-Health-App-mobile](https://dribbble.com/shots/2062953-Health-App-mobile) - pressure points are tables and alignment. Use Material Components only. DO NOT CREATE YOUR OWN COMPONENTS.
-    -   Clone [https://dribbble.com/shots/5656449-Mobile-UI-Crypto-app](https://dribbble.com/shots/5656449-Mobile-UI-Crypto-app). Use Material Components only. DO NOT CREATE YOUR OWN COMPONENTS.
+    -   Design a hospital form app.  pressure points are tables and alignment. Use Material Components only. DO NOT CREATE YOUR OWN COMPONENTS.
+
 -   Day 5
     -   Study Ant Design - https://ant.design/docs/spec/download
     -   Study data table design - https://medium.com/nextux/design-better-data-tables-4ecc99d23356
-    -   Reimplement this dashboard https://dribbble.com/shots/6398106-Loan/attachments - but by using Ant.Design. What this means is that you should use closely related elements from Ant.Design, but do NOT design your own elements. Use Ant.Design components only. DO NOT CREATE YOUR OWN COMPONENTS.
+    -   Reimplement a dashboard for taxi booking - but by using Ant.Design. What this means is that you should use closely related elements from Ant.Design, but do NOT design your own elements. Use Ant.Design components only. DO NOT CREATE YOUR OWN COMPONENTS.
 -   Day 6
     -   User research - [https://www.udemy.com/the-world-of-design-thinking/](https://www.udemy.com/the-world-of-design-thinking/)
     -   Information Architecture -
@@ -47,22 +47,10 @@
         -   [https://www.usability.gov/how-to-and-tools/methods/card-sorting.html](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
         -   [https://www.nngroup.com/articles/card-sorting-definition/](https://www.nngroup.com/articles/card-sorting-definition/)
 
-- Business track
-    - Prerequiste
-        - Learn how to use Flowmapp (https://flowmapp.com/help/user-flow-diagram-tool/)
-    - Preliminary questions to be discussed with your mentor
-        - Answer the following question  "Why do customers take a loan from RedCarpet? Why do they share all data (like GPS, contacts, etc ) with us? Why dont they go to a bank?"
-        - Answer the following question "how many such customers are there in India, who require a loan from us"
-    - Onsite project
-      - Day 1 : Spend one day shadowing the Loan disbursal team. Sit behind the operational person who is doing work. 
-          - Create a flowchart in Flowmapp explaining how the Loan disbursal team works in high degree of detail.
-      - Day 2 : Spend one day shadowing the KYC team. Sit behind the operational person who is doing work. Observe the work on the "Primer" tool
-          - Create a flowchart in Flowmapp explaining how the KYC team works in high degree of detail.
-          - Create a flowchart in Flowmapp explaining how customer uses the app in high degree of detail.
-
-    - Remote/working-from-home project alternative
-      - read [lifecycle emails](https://training.kalzumeus.com/lifecycle-emails) article
-      - Create a flowchart in Flowmapp mapping out emails at every stage of the RedCarpet app. **You will also write the emails**
-    - Day 3 : Create a Brand "moodboard" for redcarpet. Talk to customers, employees, etc
-      - [What is a brand moodboard](https://uxdesign.cc/a-mood-board-strategy-for-cohesive-visual-design-5620dec3fed7)
+- read [lifecycle emails](https://training.kalzumeus.com/lifecycle-emails) article
+- [What is a brand moodboard](https://uxdesign.cc/a-mood-board-strategy-for-cohesive-visual-design-5620dec3fed7)
+- Table design (very important. Please learn it well)
+        - https://alistapart.com/article/web-typography-tables/
+        - https://medium.com/mission-log/design-better-data-tables-430a30a00d8c
+        - https://ant.design/docs/spec/alignment
 
