@@ -9,7 +9,7 @@
 -   *Be a [**[Honeybadger]**](https://www.youtube.com/watch?v=NvlalDNxccw)* - Never give up. (P.S. check out videos of honeybadgers on youtube!)
 -   *Design for Honesty* - The design culture at RedCarpet is ["Design for Honesty"](https://www.redcarpetup.com/2017/11/29/design-for-honesty/). Make sure you read about that.
 
-** People culture at RedCarpet**
+**People culture at RedCarpet**:
 1.  Eliminate fear of reading code - writing code is very easy. Reading code is very hard. The best programmers in the world can read code fast ...not write it (like [Jeff Dean and Sanjay Ghemawat at Google](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)) We will fix this by working on different programming languages and frameworks for **everyone** ... even if that is not your main project area. Meaning - you will work on Android/Kotlin, Javascript/Reactjs, Postgresql/SQL and (Python/Flask or Python/Pandas).
 2.  Learning to debate/disagree and align/commit with colleagues is a first order skill. You will write a [Memo](https://slab.com/blog/jeff-bezos-writing-management-strategy/) on a topic and present it (by speaking) to your mentor in person.
 3.  Consistency - we will achieve hard standards of code consistency. Including expectation of IDE setup, git pull requests, etc.
