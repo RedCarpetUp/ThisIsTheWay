@@ -14,3 +14,50 @@
     - [Instagram posts creator](https://crello.com/create/instagram-post/)
     - [Design for Honesty principle at RedCarpet](https://www.redcarpetup.com/2017/11/29/design-for-honesty/)
     - What is a brand ? Brent Beshore, CEO of private equity firm Adventur.es, was recently asked what a brand is. He replied: [Brand is the distribution of likely outcomes that you can expect from any company or person.](https://www.collaborativefund.com/blog/the-making-of-a-brand/)
+    
+    - Day 1
+    - [Quick video intro to plain writing](https://www.youtube.com/watch?v=QtXSCwphuzg&list=PL8AE656E45B44EF1A&index=2)
+    - [US Govt Plain Writing Guide](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
+    - [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/)
+    - [Before and After examples](https://www.plainlanguage.gov/examples/before-and-after/)
+    - [Clearmark awards for best writing](https://centerforplainlanguage.org/awards/clearmark/2019-winners/)
+    - [Microcopy inspirations](https://www.microcopyinspirations.com/)
+    -  write 2 completely different blog articles with the same topic on the following (using plain writing)  
+        - **"Why do customers take a loan from RedCarpet? Why do they share all data (like GPS, contacts, etc ) with us? Why dont they go to a bank?"**
+    - Write 10 instagram banner posts with the same topic on the following (using plain writing and microcopy)
+        - **" Why should you take a loan from RedCarpet"**
+            - Remember to be honest and transparent about the fact that we charge higher rates of interest, we need data to be able to calculate your rates and we will remind you about payments on phone if you get delayed.
+
+- Day 2
+    - [Apple iOS Style Guide](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/terminology/)
+    - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/voice-and-tone/)
+    - [Google Material Design writing style guide](https://material.io/design/communication/writing.html)
+    - [Gojek Content Style Guide for Asia](https://asphalt.gojek.io/foundations/Communication/)
+    - [Economist Style Guide](http://cdn.static-economist.com/sites/default/files/pdfs/style_guide_12.pdf)
+    - [https://blog.prototypr.io/understanding-human-behaviors-in-ux-writing-3283353b2cde](https://blog.prototypr.io/understanding-human-behaviors-in-ux-writing-3283353b2cde)
+    -  write an article on the following (using plain writing and tech writing) :
+        - "**When to use Kotlin Coroutines**"
+    - Write 5 instagram banner posts with the same topic on the following (using plain writing, tech writing and microcopy)
+        - "**How does RedCarpet do credit scoring**"
+            - You have to be able to explain complex thing like artificial intelligence, credit bureaus, machine learning using just a few words.
+    - Download and install the [RedCarpet app](https://redc.pt/app). You will rewrite the content for the first 5 screens (assume that the design is the same) 
+
+- Day 3
+    - Behavioral Economics: [https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/a-marketers-guide-to-behavioral-economics](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/a-marketers-guide-to-behavioral-economics)
+    - [https://www.forbes.com/sites/piyankajain/2018/03/01/5-behavioral-economics-principles-for-marketeers/#7a8592b228eb](https://www.forbes.com/sites/piyankajain/2018/03/01/5-behavioral-economics-principles-for-marketeers/#7a8592b228eb)
+    - [https://aurora.dawn.com/news/1141968](https://aurora.dawn.com/news/1141968)
+    - [https://blog.usejournal.com/biases-in-decision-making-behind-the-marketing-tactics-of-black-friday-e0f8bce81335](https://blog.usejournal.com/biases-in-decision-making-behind-the-marketing-tactics-of-black-friday-e0f8bce81335)
+    - [https://blog.hubspot.com/marketing/psychology-marketers-revealing-principles-human-behavior](https://blog.hubspot.com/marketing/psychology-marketers-revealing-principles-human-behavior)
+    - [https://www.uxmatters.com/mt/archives/2011/03/how-anchoring-ordering-framing-and-loss-aversion-affect-decision-making.php](https://www.uxmatters.com/mt/archives/2011/03/how-anchoring-ordering-framing-and-loss-aversion-affect-decision-making.php)
+    - Based on Behavioral Economics and plain writing, write 5 completely different articles with the same topic:
+        -  **"Why should you pay back emi on time."** 
+        - (Remember your audience are people in tier-3 cities of India) Use the principles of Loss Aversion, Framing and Anchoring to write your article.
+    - Write 10 instagram banner posts with the same topic on the following 
+        - **"Why should you pay back emi on time."** 
+        - (Remember your audience are people in tier-3 cities of India) Use the principles of Loss Aversion, Framing and Anchoring to write your instagram posts.
+- For your own self
+    - [Writers of Silicon Valley Podcast](https://www.writersofsiliconvalley.com/)
+    - [Content Design Podcast](https://itunes.apple.com/au/podcast/content-design-podcast/id1338546506?mt=2)
+    - [Content Strategy Podcast](https://www.contentstrategy.com/podcast)
+    
+
