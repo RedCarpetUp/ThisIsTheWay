@@ -1,0 +1,16 @@
+    - What is UX writing
+        - [https://www.uxbooth.com/articles/what-is-ux-writing/](https://www.uxbooth.com/articles/what-is-ux-writing/)
+        - [What does a UX Writer do at Google](https://blog.prototypr.io/interview-with-a-ux-writer-from-google-d465275109f0)
+        - [https://design.google.com/jobs/ux-writer/](https://design.google.com/jobs/ux-writer/)
+        - [Copywriting and UX Writing](https://www.rocketair.com/blog/blurred-lines-how-the-roles-of-copywriting-and-ux-writing-are-changing)
+    - A brief intro to UX writing
+        - [Shitty first drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)
+        - [Content first design](https://medium.com/google-design/write-first-the-craft-of-content-first-design-d9460d567947)
+        - [https://pagely.com/blog/ux-writing-checklist/](https://pagely.com/blog/ux-writing-checklist/)
+    -  Markdown - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+        - You will write everything as Markdown. Please be very comfortable with it. 
+        - Practice on [HackMD](https://hackmd.io/new). Check out all its features.
+        - **All work from now on will be submitted as markdown**. Please do NOT submit anything as Word docs.
+    - [Instagram posts creator](https://crello.com/create/instagram-post/)
+    - [Design for Honesty principle at RedCarpet](https://www.redcarpetup.com/2017/11/29/design-for-honesty/)
+    - What is a brand ? Brent Beshore, CEO of private equity firm Adventur.es, was recently asked what a brand is. He replied: [Brand is the distribution of likely outcomes that you can expect from any company or person.](https://www.collaborativefund.com/blog/the-making-of-a-brand/)
