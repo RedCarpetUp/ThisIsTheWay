@@ -38,3 +38,24 @@ Successful ML professionals at the best ML companies spend  a significant amount
 If you work at RedCarpet, you will be asked to present your ML and data science in this way - https://rapidminer.com/resource/present-machine-learning-models/
 
 We strongly believe in no exaggerated differences between **"data scientist vs data analyst vs data engineer"** - other than to sell educational courses.
+
+NOHELLO policy on Slack
+====================================
+```
+2010-07-19 12:32:12 you: Hi
+2010-07-19 12:32:15 co-worker: Hello.
+## CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
+2010-07-19 12:34:01 you: I'm working on [something] and I'm trying to do [etc...]
+2010-07-19 12:35:21 co-worker: Oh, that's [answer...]
+```
+ Dont just say "Hi!" and then put them on hold. Instead do this.
+ 
+ ```
+ 2010-07-19 12:32:12 you: Hi -- I'm working on [something] and I'm trying to do [etc...]
+2010-07-19 12:33:32 co-worker: [answers question]
+```
+
+Paraphrasing from nohello.com
+
+- You're trying to be polite by not jumping right into the request, like you would do in person or on the phone. But Chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
+- The same goes for "Hello -- Are you there?", "Hi Bob -- quick question.", "Do you have a sec ?", "yt?" and "ping". Just ask the question!
