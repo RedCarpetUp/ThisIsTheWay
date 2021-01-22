@@ -30,14 +30,16 @@ Based on best practices from Google, the ML/AI work at RedCarpet focuses a lot o
 - https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872
 - https://www.techrepublic.com/article/how-to-fail-as-a-data-scientist-3-common-mistakes/
 
-Business thinking + ML at RedCarpet
-====================================
+**Business thinking + ML at RedCarpet**
 
 Successful ML professionals at the best ML companies spend  a significant amount of time in understanding the business and product. Because a data scientist needs to understand the business for which they are building. Have you used RedCarpet's app ? What data science can you do there ?
 
 If you work at RedCarpet, you will be asked to present your ML and data science in this way - https://rapidminer.com/resource/present-machine-learning-models/
 
-We strongly believe in no exaggerated differences between **"data scientist vs data analyst vs data engineer"** - other than to sell educational courses.
+We strongly believe in no exaggerated differences between **"data scientist vs data analyst vs data engineer"**. 
+
+https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/
+
 
 NOHELLO policy on Slack
 ====================================
