@@ -34,3 +34,4 @@ Add the contents of settings.json to your current [settings.json](https://code.v
 
 ## API Design
 * [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
+* [Idempotency](https://www.moderntreasury.com/journal/why-idempotency-matters-in-payments)
