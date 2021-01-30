@@ -31,3 +31,6 @@ Assuming you use [VS Code](https://code.visualstudio.com/) (Please don't use Sub
 ## How to
 
 Add the contents of settings.json to your current [settings.json](https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations). Restart VS Code for Magic.
+
+## API Design
+* [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
