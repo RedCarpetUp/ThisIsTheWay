@@ -15,6 +15,7 @@
 3.  Consistency - we will achieve hard standards of code consistency. Including expectation of IDE setup, git pull requests, etc.
 4.  Strong career achievement - The best companies in the world prefer an [Achievement data](https://www.businessinsider.in/A-head-recruiter-at-Amazon-says-the-best-resumes-are-data-based-and-theres-an-easy-formula-you-can-follow/articleshow/65235908.cms) based criteria for selecting candidates for jobs. Your college just gives you rote skills. You will build your achievements here.
 
+
 **Machine Learning Culture at RedCarpet**
 We thought it was important to put here
 
@@ -61,6 +62,13 @@ Paraphrasing from nohello.com
 
 - You're trying to be polite by not jumping right into the request, like you would do in person or on the phone. But Chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
 - The same goes for "Hello -- Are you there?", "Hi Bob -- quick question.", "Do you have a sec ?", "yt?" and "ping". Just ask the question!
+
+Managing without Authority
+==========================
+[![How to Manage without Authority in Product Roles by Google PM
+](https://img.youtube.com/vi/d523jOVJ8no/0.jpg)](https://www.youtube.com/watch?v=d523jOVJ8no)
+
+How to Manage without Authority in Product Roles by Google PM
 
 Interesting Reading
 ===================
