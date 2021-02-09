@@ -8,6 +8,9 @@ Clayton Christensen's milkshake jobs-to-be-done
 
 - [Gitlab's jobs-to-be-done quick dive](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/deep-dive/)
 - [Gitlab's example JTBD](https://gitlab.com/gitlab-org/gitlab/-/issues/197187)
+
+
+- [Live JTBD interview video](https://vimeo.com/81153746#t=1120s)
 - [WHEN COFFEE & KALE COMPETE](http://www.whencoffeeandkalecompete.com/)
 - [Michael Boysen's Interview template](/design/boysen_jtbd_interview_5548.pdf)
 
