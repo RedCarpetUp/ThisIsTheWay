@@ -16,7 +16,8 @@
 4.  Strong career achievement - The best companies in the world prefer an [Achievement data](https://www.businessinsider.in/A-head-recruiter-at-Amazon-says-the-best-resumes-are-data-based-and-theres-an-easy-formula-you-can-follow/articleshow/65235908.cms) based criteria for selecting candidates for jobs. Your college just gives you rote skills. You will build your achievements here.
 
 
-**Machine Learning Culture at RedCarpet**
+Machine Learning Culture at RedCarpet
+====================================
 We thought it was important to put here
 
 We take inspiration from the team at Google Brain AI - possibly the best AI team in the world.
