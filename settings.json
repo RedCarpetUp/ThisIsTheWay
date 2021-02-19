@@ -19,7 +19,7 @@
     "git.alwaysShowStagedChangesResourceGroup": true,
     "python.analysis.cachingLevel": "System",
     "python.analysis.memory.keepLibraryLocalVariables": true,
-    "python.analysis.memory.keepLibraryAst": true,
+    "python.analysis.memory.keepLibraryAst": false,
     "python.autoComplete.addBrackets": true,
     "python.diagnostics.sourceMapsEnabled": true,
     "editor.formatOnSave": true,
