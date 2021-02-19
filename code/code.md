@@ -5,7 +5,14 @@ At RedCarpet we believe in two sacrosanct laws of software engineering. These ca
     -  Make it easy to read code. Write testcases.
 2.  "*Premature complexity is the root of all evil*" - Only write as much code as is required to solve the problem. Dont build something extra to make it look "cooler". Dont use Tensorflow if a python script is sufficient.
     -  Corollary - never tell us "*I have written the code, but not run it*". If you have written one line/function of code, you better have run it.
-    
+
+# Reading code is hard. Why is it so hard to see code from 5 minutes ago ?
+[http://www.cs.cmu.edu/~NatProg/papers/p101-yoon-VLHCC2014.pdf](Why is it so hard to see code from 5 minutes ago)
+>A study found that Java developers backtracked every 6 minutes, meaning.. by clicking undo or pressing Ctrl-Z.
+
+Answer: **Spend time in setting up tools - editor, debugger, etc. They are more important than writing code**
+
+
 #Learn this    
 
 -   Markdown - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
