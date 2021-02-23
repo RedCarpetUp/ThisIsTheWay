@@ -1,3 +1,25 @@
+
+Philosophy at RedCarpet
+=================
+
+Tencent way
+-----------
+
+1. https://kr-asia.com/pony-ma-seven-flaws-that-a-perfect-product-manager-would-avoid-part-1
+2. https://kr-asia.com/pony-ma-7-flaws-that-a-perfect-product-manager-would-avoid-part-2
+3. https://kr-asia.com/pony-ma-seven-flaws-that-a-perfect-product-manager-would-avoid-part-3
+
+*"In the course of the study, Tencent formulated a “10/100/1000 rule”: product manager should make 10 user surveys monthly, follow 100 users blog, and gather feedback from 1000 users. This approach may seem very simple but is extremely difficult in practice, and very useful."
+I would like to emphasize that there is no shortcut to understanding user demand. Never take it for granted and think that we can guess the habits of user*
+
+Product-Channel-Model-Market fit
+-------------------------------
+- https://www.reforge.com/the-road-to-100m
+- https://brianbalfour.com/essays/product-channel-fit-for-growth
+- https://www.reforge.com/blog/growth-loops
+
+
+
 Jobs To Be Done Framework
 ==========================
 
