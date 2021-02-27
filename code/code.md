@@ -13,7 +13,7 @@ At RedCarpet we believe in two sacrosanct laws of software engineering. These ca
 Answer: **Spend time in setting up tools - editor, debugger, etc. They are more important than writing code**
 
 
-## Never Ever Ever Ever EVER mess with dates/times, unicode and floating-point/decimal
+## 🐉🐉🐉 Never Ever Ever Ever EVER mess with dates/times, unicode and floating-point/decimal 🐉🐉🐉
 
 Read some of these threads
 - https://news.ycombinator.com/item?id=26282742 versus https://news.ycombinator.com/item?id=10195947 vs https://news.ycombinator.com/item?id=14179783
@@ -22,7 +22,8 @@ Read some of these threads
 
 Never EVER try to do these 3 things by hand. Use a library. Or you will suffer a lot. Very painfully.
 
-#Learn this    
+
+## Learn this    
 
 -   Markdown - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
 -   Git (**expected time: half day)** - finish the quick guide. Show the result to your mentor. [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/). If you are on Windows, we suggest using [Git Bash](https://git-scm.com/downloads). DO NOT USE ANY GUI.
