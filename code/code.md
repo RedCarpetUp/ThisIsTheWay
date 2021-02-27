@@ -13,6 +13,15 @@ At RedCarpet we believe in two sacrosanct laws of software engineering. These ca
 Answer: **Spend time in setting up tools - editor, debugger, etc. They are more important than writing code**
 
 
+## Never Ever Ever Ever EVER mess with dates/times, unicode and floating-point/decimal
+
+Read some of these threads
+- https://news.ycombinator.com/item?id=26282742 versus https://news.ycombinator.com/item?id=10195947 vs https://news.ycombinator.com/item?id=14179783
+- https://lucumr.pocoo.org/2014/1/5/unicode-in-2-and-3/ vs https://news.ycombinator.com/item?id=18154667
+- https://en.wikipedia.org/wiki/IEEE_754
+
+Never EVER try to do these 3 things by hand. Use a library. Or you will suffer a lot. Very painfully.
+
 #Learn this    
 
 -   Markdown - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
