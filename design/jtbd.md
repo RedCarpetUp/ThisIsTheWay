@@ -23,11 +23,8 @@ Product-Channel-Model-Market fit
 Jobs To Be Done Framework
 ==========================
 
-
-[![Clayton Christensen's milkshake jobs-to-be-done](https://img.youtube.com/vi/s9nbTB33hbg/0.jpg)](https://www.youtube.com/watch?v=s9nbTB33hbg)
-
-Clayton Christensen's milkshake jobs-to-be-done
-- **READ FIRST: [WHEN COFFEE & KALE COMPETE](http://www.whencoffeeandkalecompete.com/)**
+- [READ FIRST: Quick Summary](https://www.room214.com/blog/strategy/jobs-to-be-done-customer-journey). ***The magic comes from the long-form interview format and open-ended questions*** 
+-  [WHEN COFFEE & KALE COMPETE](http://www.whencoffeeandkalecompete.com/)
 
 - [Gitlab's jobs-to-be-done interview process](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/validating-jobs-to-be-done/)
 - [Gitlab's JTBD example in their bug tracker](https://gitlab.com/gitlab-org/gitlab/-/issues/197187)
