@@ -40,3 +40,6 @@ Clayton Christensen's milkshake jobs-to-be-done
 - Resource: [Michael Boysen's Interview template](/design/boysen_jtbd_interview_5548.pdf)
 - Resource: [The Jobs-to-be-Done "Job Map" Canvas – Tony Ulwick ](/design/JTBD-Canvas.pdf)
 
+
+
+[![Example jobs-to-be-done "job map"](/design/example_job_map.jpg)](/design/example_job_map.jpg)
