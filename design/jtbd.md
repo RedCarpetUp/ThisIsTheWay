@@ -34,6 +34,7 @@ Clayton Christensen's milkshake jobs-to-be-done
 
 
 - [Live JTBD interview video](https://vimeo.com/81153746#t=1120s)
+- [Harvard Business Review's "Job Map"](https://hbr.org/2008/05/the-customer-centered-innovation-map)
 
 - Resource: [Michael Boysen's Interview template](/design/boysen_jtbd_interview_5548.pdf)
 - Resource: [The Jobs-to-be-Done Canvas – Tony Ulwick ](/design/JTBD-Canvas.pdf)
