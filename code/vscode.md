@@ -1,5 +1,8 @@
 Pylance
 - https://www.youtube.com/watch?v=mt91AHxUyMw&t=959s
 
-Github
-- https://www.youtube.com/watch?v=4iDQ7CHHZZM
+Pull Request
+- https://www.youtube.com/watch?v=XmIlJYdBgvc
+
+P.S. if ur not comfortable with git and github, follow this
+- https://www.youtube.com/playlist?list=PL3Y9MECuxct0RMwdYcqoIjo-7ncRpTNLs
