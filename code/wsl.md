@@ -1,6 +1,7 @@
 
 
 **Install Windows Terminal**
+
 Windows Terminal is a better shell for Windows. Everything else (including coding, etc) will happen in Windows Shell. Your Linux virtual machine will also run inside Windows Terminal. 
 you can customize the look and feel here - https://www.youtube.com/watch?v=mnWA4EP2Zhw
 
@@ -9,12 +10,14 @@ https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 When you run Windows Terminal - it lets you choose which kind of shell to run. Choose Powershell (for now). Later you will choose Ubuntu.
 
 **OS Requirements**
+
 Windows 10. Version 1903 or higher, with Build 18362 or higher.
 To check your version and build number, type `winver` in Windows Terminal.
 
 Please make sure that virtualization is enabled inside of your computer's BIOS. The instructions on how to do this will vary from computer to computer, and will most likely be under CPU related options.
 
 **Setup Windows Subsystem for Linux - Version 2 (WSL2)**
+
 Follow these steps
 
 - Open Windows Terminal as administrator. You can do this by right clicking on Windows Terminal and choosing "run as administrator"
@@ -38,6 +41,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 
 **Set up VSCode**
+
 First, to use VS code on WSL, you will need to install on windows and access it via remote since WSL does not have a graphical interface
 - install vscode - https://code.visualstudio.com/download
 - install WSL extension in vscode - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl  (another way to install is Open your VS code and click
@@ -46,6 +50,7 @@ First, to use VS code on WSL, you will need to install on windows and access it 
 - From this point forward, You can launch a new instance of VS Code connected to WSL by opening a WSL terminal, navigating to the folder of your choice, and typing `code .`
 
 **Install Docker**
+
 Go to the 'Install and Run Docker on WSL2' section and follow the steps.
 
 - Update your Linux software repository with `sudo apt-get update`
