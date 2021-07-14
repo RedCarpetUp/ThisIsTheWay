@@ -9,6 +9,16 @@ https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 
 When you run Windows Terminal - it lets you choose which kind of shell to run. Choose Powershell (for now). Later you will choose Ubuntu.
 
+To customize Windows Terminal, do the following
+- Open Windows Terminal as administrator. You can do this by right clicking on Windows Terminal and choosing "run as administrator"
+- Run in Windows Terminal Powershell
+`Set-ExecutionPolicy -ExecutionPolicy Unrestricted`
+- `Install-Module posh-git -Scope CurrentUser`
+- `Install-Module oh-my-posh -Scope CurrentUser`
+- `Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck`
+- `Import-Module oh-my-posh`
+- `Set-PoshPrompt -Theme Aliens`
+
 **OS Requirements**
 
 Windows 10. Version 1903 or higher, with Build 18362 or higher.
@@ -21,6 +31,7 @@ Please make sure that virtualization is enabled inside of your computer's BIOS. 
 Follow these steps
 
 - Open Windows Terminal as administrator. You can do this by right clicking on Windows Terminal and choosing "run as administrator"
+
 - Run in Windows Terminal Powershell
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
