@@ -73,4 +73,15 @@ Go to the 'Install and Run Docker on WSL2' section and follow the steps.
 - Check Docker service status `sudo service docker status`
 - Running Docker service `sudo service docker start` (you need to do this once each time before running docker in your windows terminal)
 
+**Install Python**
+- Go to https://docs.conda.io/en/latest/miniconda.html to find the list of miniconda releases
+- download the release. remember when you download stuff, the file and goes to a different directory than your WSL home directory. ***we strongly recommending copying it to home directory. Running linux commands in wsl from other directories is VERY SLOW**
+- Run the installation script: `$ bash miniconda[YOUR VERSION].sh` ( example `$ bash miniconda-3-5.2.0-Linux-x86_64.sh`)
+- Read the license agreement and follow the prompts to accept. When asks you if you'd like the installer to prepend it to the path, say yes.
+- Close the terminal and reopen it to reload .bash configs.
+- Manually add the miniconda bin folder to your PATH. To do this, I added "`export PATH=/home/user1234/miniconda3/bin:$PATH`" to the bottom of my `~/.bashrc` file
+- run `which python` it should work !
 
+**Install Jupyter**
+- if you install miniconda above, then jupyter comes pre-installed
+- To open jupyter, type `$ jupyter notebook --no-browser`. The no browser flag will still run Jupyter on port 8888, but it won't pop it open automatically. it's necessary since you don't have a browser (probably) in your subsystem. In the terminal, it will give you a link to paste into your browser. If it worked, you should see your notebooks!
