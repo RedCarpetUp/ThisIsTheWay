@@ -77,6 +77,11 @@ Go to the 'Install and Run Docker on WSL2' section and follow the steps.
 - Go to https://docs.conda.io/en/latest/miniconda.html to find the list of miniconda releases
 - download the release. remember when you download stuff, the file and goes to a different directory than your WSL home directory. ***we strongly recommending copying it to home directory. Running linux commands in wsl from other directories is VERY SLOW**
 - Run the installation script: `$ bash miniconda[YOUR VERSION].sh` ( example `$ bash miniconda-3-5.2.0-Linux-x86_64.sh`)
+- alternatively, you can do this
+    - `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+    - `bash Miniconda3-latest-Linux-x86_64.sh`
+    - `source ~/.bashrc`
+   
 - Read the license agreement and follow the prompts to accept. When asks you if you'd like the installer to prepend it to the path, say yes.
 - Close the terminal and reopen it to reload .bash configs.
 - Manually add the miniconda bin folder to your PATH. To do this, I added "`export PATH=/home/user1234/miniconda3/bin:$PATH`" to the bottom of my `~/.bashrc` file
