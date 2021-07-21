@@ -1,3 +1,12 @@
+Essential Reading
+-------------------
+- PDF: [Valuation of a Bank Credit-Card Portfolio by Riaz Hussain](/finance/ValuationOfBankCreditCard200703.pdf)
+- PDF: [HOW BARCLAYCARD PORTUGAL CAN ACTIVATE AND ENGAGE CUSTOMERS by INÊS FILIPA PRAZERES DO ROSÁRIO](/finance/Rosário_2016.pdf) 
+
+
+Courses
+-------
+
 - [Accounting 1](https://www.udemy.com/course/accounting17/)
 - [Accounting 2](https://www.udemy.com/course/learn-accounting/)
 
