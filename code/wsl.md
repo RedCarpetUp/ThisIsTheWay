@@ -112,3 +112,8 @@ localhostForwarding=true
 
 This will still consume the entire 6GBs regardless of Linux memory usage, but at least it'll stop growing more than that.
 
+** WSL hangs**
+Sometimes you will notice that WSL hangs. Especially after a reboot. Even opening a new WSL/Ubuntu window in Windows Terminal will hang.
+
+the fix is easy. In Windows Terminal, type `wsl.exe --shutdown` and then wait until the command completes. Then you can open a new WSL/Ubuntu terminal
+
