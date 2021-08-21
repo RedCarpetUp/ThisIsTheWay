@@ -66,6 +66,13 @@ First, to use VS code on WSL, you will need to install on windows and access it 
 
 **Install Docker**
 
+Simple Way:
+- Install "Docker Desktop for Windows" https://docs.docker.com/desktop/windows/install/
+- use Docker from inside the wsl2 terminal
+
+
+Hard Way:
+
 Go to the 'Install and Run Docker on WSL2' section and follow the steps.
 
 - Update your Linux software repository with `sudo apt-get update`
