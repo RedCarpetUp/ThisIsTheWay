@@ -103,6 +103,9 @@ Go to the 'Install and Run Docker on WSL2' section and follow the steps.
 - To open jupyter, type `$ jupyter notebook --no-browser`. The no browser flag will still run Jupyter on port 8888, but it won't pop it open automatically. it's necessary since you don't have a browser (probably) in your subsystem. In the terminal, it will give you a link to paste into your browser. If it worked, you should see your notebooks!
 
 
+**Running k3s on WSL2**
+- [https://www.youtube.com/watch?v=TLugDYu0QYQ](https://www.youtube.com/watch?v=TLugDYu0QYQ)
+
 **Recommended: Memory Optimization for WSL**
 https://github.com/microsoft/WSL/issues/4166#issuecomment-526725261
 
