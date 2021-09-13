@@ -23,12 +23,37 @@ Read some of these threads
 Never EVER try to do these 3 things by hand. Use a library. Or you will suffer a lot. Very painfully.
 
 
-## Learn this    
+## Git basics, etc 
 
 - Pull Request [https://www.youtube.com/watch?v=XmIlJYdBgvc](https://www.youtube.com/watch?v=XmIlJYdBgvc)
 
 - Git & Github [https://www.youtube.com/playlist?list=PL3Y9MECuxct0RMwdYcqoIjo-7ncRpTNLs](https://www.youtube.com/playlist?list=PL3Y9MECuxct0RMwdYcqoIjo-7ncRpTNLs)
 -  Markdown - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+
+**how to create a ssh key for github**
+`ssh-keygen -t ed25519 -C "email-address-that-you-used@github.com"`
+
+this will ask you for a filename and creates two files: `filename` and `filename.pub` . These two files are used in different places. Be careful. (`.pub` files are set outside - share with your company, set in github, etc. never share the `filename` itself)
+
+set this `filename.pub` key in github - [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
+set this in your `~/.ssh/config`
+
+```
+Host github-redcarpet
+   HostName github.com
+   IdentityFile  ~/.ssh/filename
+   IdentitiesOnly yes
+```
+This basically means that use `filename` whenever a url named `github-redcarpet` is seen in any repository. This will mean your git command will automatically choose the correct ssh secret key to connect.
+
+normally you would add a new repo (or clone it) using `github.com`. But now you should use `github-redcarpet`. E.g.
+
+`git remote add origin git@github-redcarpet:redcarpetup/myrepo.git`
+
+or
+
+`git clone git@github-redcarpet:redcarpetup/myrepo.git`
 
 
 
