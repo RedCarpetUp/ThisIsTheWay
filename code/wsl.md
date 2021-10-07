@@ -6,30 +6,20 @@ Creating a Windows + WSL (Windows Subsystem for Linux) development environment f
 **Install Windows Terminal**
 
 Windows Terminal is a better shell for Windows. Everything else (including coding, etc) will happen in Windows Shell. Your Linux virtual machine will also run inside Windows Terminal. 
-you can customize the look and feel here - https://www.youtube.com/watch?v=mnWA4EP2Zhw
 
-https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+OPTIONAL: you can customize the look and feel here - https://www.youtube.com/watch?v=mnWA4EP2Zhw  & https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
 
-When you run Windows Terminal - it lets you choose which kind of shell to run. Choose Powershell (for now). Later you will choose Ubuntu.
-
-To customize Windows Terminal, do the following
-- Open Windows Terminal as administrator. You can do this by right clicking on Windows Terminal and choosing "run as administrator"
-- Run in Windows Terminal Powershell
-`Set-ExecutionPolicy -ExecutionPolicy Unrestricted`
-- `Install-Module posh-git -Scope CurrentUser`
-- `Install-Module oh-my-posh -Scope CurrentUser`
-- `Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck`
-- `Import-Module oh-my-posh`
-- `Set-PoshPrompt -Theme Aliens`
 
 **OS Requirements**
 
-Windows 10. Version 1903 or higher, with Build 18362 or higher.
+Windows 10 version 2004 and higher (Build 19041 and higher) or Windows 11.  
 To check your version and build number, type `winver` in Windows Terminal.
 
 Please make sure that virtualization is enabled inside of your computer's BIOS. The instructions on how to do this will vary from computer to computer, and will most likely be under CPU related options.
 
 **Setup Windows Subsystem for Linux - Version 2 (WSL2)**
+
+reference: https://docs.microsoft.com/en-us/windows/wsl/install
 
 Follow these steps
 
@@ -37,20 +27,13 @@ Follow these steps
 
 - Run in Windows Terminal Powershell
 ```
-dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+wsl --install
 ```
-- restart your machine 
-- Run in Windows Terminal Powershell
-`dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
-- restart your machine
-- Download and install - https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
-- restart your machine
--  Run in Windows Terminal Powershell
-`wsl --set-default-version 2`
-- Open Windows Store (https://aka.ms/wslstore) and search for "Linux"
-- Install Ubuntu
-- https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6#activetab=pivot:overviewtab
 - The first time you launch a newly installed Linux distribution, a console window will open and you'll be asked to wait for a minute or two for files to de-compress and be stored on your PC. All future launches should take less than a second. You will then need to create a user account and password for your new Linux distribution.
+
+![image](https://user-images.githubusercontent.com/76883/136389494-ef7382fb-3099-4708-80ba-7b37a8c189bf.png)
+
+
 - CONGRATULATIONS! You've successfully installed and set up a Linux distribution that is completely integrated with your Windows operating system!
 - close Windows Terminal and reopen. You will see a new tab in Windows Terminal that says "Ubuntu". From now on, everything else will be done in this terminal.
 
@@ -66,23 +49,18 @@ First, to use VS code on WSL, you will need to install on windows and access it 
 
 **Install Docker**
 
-Simple Way:
-- Install "Docker Desktop for Windows" https://docs.docker.com/desktop/windows/install/
-- use Docker from inside the wsl2 terminal
-
-
-Hard Way:
-
-Go to the 'Install and Run Docker on WSL2' section and follow the steps.
-
 - Update your Linux software repository with `sudo apt-get update`
-- Download Docker dependencies `sudo apt-get install apt-transport-https ca-certificates curl software-properties-common`
-- Add Docker PGP key `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add –`
-- Install the Docker Repository `sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release) -cs) stable"`
+- Download Docker dependencies `sudo apt-get install apt-transport-https ca-certificates curl software-properties-common gnupg  lsb-release`
+- Add Docker PGP key `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg`
+- Install the Docker Repository `echo \
+  "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
 - Update the software repository `sudo apt-get update`
-- Install the latest Docker version `sudo apt-get install docker-ce`
-- Check Docker service status `sudo service docker status`
+- Install the latest Docker version `sudo apt-get install docker-ce docker-ce-cli containerd.io`
 - Running Docker service `sudo service docker start` (you need to do this once each time before running docker in your windows terminal)
+- Check Docker service status `sudo service docker status`
+- sudo docker run hello-world
+
 
 **Install Python**
 - Go to https://docs.conda.io/en/latest/miniconda.html to find the list of miniconda releases
