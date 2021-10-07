@@ -76,9 +76,13 @@ First, to use VS code on WSL, you will need to install on windows and access it 
 - Manually add the miniconda bin folder to your PATH. To do this, I added "`export PATH=/home/user1234/miniconda3/bin:$PATH`" to the bottom of my `~/.bashrc` file
 - run `which python` it should work !
 
-**Install Jupyter (data scientists, risk and strategy teams setup ends after you install jupyter. dev/tech teams please continue forward)** 
+**Install Jupyter** 
 - if you install miniconda above, then jupyter comes pre-installed
 - To open jupyter, type `$ jupyter notebook --no-browser`. The no browser flag will still run Jupyter on port 8888, but it won't pop it open automatically. it's necessary since you don't have a browser (probably) in your subsystem. In the terminal, it will give you a link to paste into your browser. If it worked, you should see your notebooks!
+
+
+(data scientists, risk and strategy teams setup ends after you install jupyter. dev/tech teams please continue forward)
+--------------------
 
 
 **Running k3s on WSL2**
