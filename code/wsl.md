@@ -47,19 +47,6 @@ First, to use VS code on WSL, you will need to install on windows and access it 
 - Once the installation is completed, head back to the Ubuntu terminal and type `code .` (notice *“code” + “.”*). When you click enter, you will see is the message `“the Installing VS Code Server c7d83e57…”` What is happening here is WSL is installing a smaller VS code server that matches the VS version installed on Windows (client-side). The server will then communicate to the VS code on Windows, and the small server will receive any changes we made on Windows VS code. The server will, in turn, install and host extensions in WSL
 - From this point forward, You can launch a new instance of VS Code connected to WSL by opening a WSL terminal, navigating to the folder of your choice, and typing `code .`
 
-**Install Docker**
-
-- Update your Linux software repository with `sudo apt-get update`
-- Download Docker dependencies `sudo apt-get install apt-transport-https ca-certificates curl software-properties-common gnupg  lsb-release`
-- Add Docker PGP key `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg`
-- Install the Docker Repository `echo \
-  "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
-  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
-- Update the software repository `sudo apt-get update`
-- Install the latest Docker version `sudo apt-get install docker-ce docker-ce-cli containerd.io`
-- Running Docker service `sudo service docker start` (you need to do this once each time before running docker in your windows terminal)
-- Check Docker service status `sudo service docker status`
-- sudo docker run hello-world
 
 
 **Install Python**
@@ -83,6 +70,20 @@ First, to use VS code on WSL, you will need to install on windows and access it 
 
 (data scientists, risk and strategy teams setup ends after you install jupyter. dev/tech teams please continue forward)
 --------------------
+
+**Install Docker**
+
+- Update your Linux software repository with `sudo apt-get update`
+- Download Docker dependencies `sudo apt-get install apt-transport-https ca-certificates curl software-properties-common gnupg  lsb-release`
+- Add Docker PGP key `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg`
+- Install the Docker Repository `echo \
+  "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
+- Update the software repository `sudo apt-get update`
+- Install the latest Docker version `sudo apt-get install docker-ce docker-ce-cli containerd.io`
+- Running Docker service `sudo service docker start` (you need to do this once each time before running docker in your windows terminal)
+- Check Docker service status `sudo service docker status`
+- sudo docker run hello-world
 
 
 **Running k3s on WSL2**
