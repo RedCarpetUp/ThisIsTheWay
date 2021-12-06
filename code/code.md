@@ -29,6 +29,11 @@ Never EVER try to do these 3 things by hand. Use a library. Or you will suffer a
 
 - Git & Github [https://www.youtube.com/playlist?list=PL3Y9MECuxct0RMwdYcqoIjo-7ncRpTNLs](https://www.youtube.com/playlist?list=PL3Y9MECuxct0RMwdYcqoIjo-7ncRpTNLs)
 -  Markdown - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+-  configuration for GitHub Desktop on Windows assumes CRLF but the text editor may be using LF. You can change your local repository settings to use lf instead 
+```
+git config core.eol lf
+git config core.autocrlf input
+```
 
 **how to create a ssh key for github**
 `ssh-keygen -t ed25519 -C "email-address-that-you-used@github.com"`
