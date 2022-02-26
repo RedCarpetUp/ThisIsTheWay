@@ -32,6 +32,10 @@ Based on best practices from Google, the ML/AI work at RedCarpet focuses a lot o
 - https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872
 - https://www.techrepublic.com/article/how-to-fail-as-a-data-scientist-3-common-mistakes/
 
+Today's world in AI/ML & data science is fast evolving. As an organization, we must make tradeoffs in using services like https://cloud.google.com/automl/ (which claims *"Train high-quality custom machine learning models with minimal effort and machine learning expertise."*) to https://aws.amazon.com/personalize/ (which claims *"enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations – no ML expertise required."*) to https://cloud.google.com/vision/pricing (which does image processing at $1 for 1000 images). 
+
+So where does the true value of a data scientist lie when algorithms are commodity ? Its in the **business understanding**
+
 **Business thinking + ML at RedCarpet**
 
 Successful ML professionals at the best ML companies spend  a significant amount of time in understanding the business and product. Because a data scientist needs to understand the business for which they are building. Have you used RedCarpet's app ? What data science can you do there ?
