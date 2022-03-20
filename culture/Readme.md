@@ -39,6 +39,9 @@ Today's world in AI/ML & data science is fast evolving. As an organization, we m
 
 So where does the true value of a data scientist lie..... when algorithms are commodity ? Its in the **business understanding**
 
+![ML Mistake](/culture/Screenshot%202022-03-20%20153703.png)
+![ML Fix](/culture/Screenshot%202022-03-20%20153735.png)
+
 **Business thinking + ML at RedCarpet**
 
 Successful ML professionals at the best ML companies spend  a significant amount of time in understanding the business and product. Because a data scientist needs to understand the business for which they are building. Have you used RedCarpet's app ? What data science can you do there ?
