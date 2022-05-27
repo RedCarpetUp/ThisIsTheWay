@@ -41,6 +41,12 @@ So where does the true value of a data scientist lie..... when algorithms are co
 
 ![ML Mistake](/culture/Screenshot%202022-03-20%20153703.png)
 ![ML Fix](/culture/Screenshot%202022-03-20%20153735.png)
+![ML datasets](https://user-images.githubusercontent.com/76883/170722537-895e275d-9687-4998-a8d0-2c41494806fe.png)
+![ML Dataset fantasy](https://user-images.githubusercontent.com/76883/170722713-b5763520-a55e-486a-8597-ec14149d1295.png)
+![wannabe](https://user-images.githubusercontent.com/76883/170722803-c05721d8-8c50-4791-9114-e57987fad4fd.png)
+
+
+
 
 **Business thinking + ML at RedCarpet**
 
