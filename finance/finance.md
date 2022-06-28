@@ -1,5 +1,6 @@
 Essential Reading
 -------------------
+- [Card Ecosystem](http://euro.ecom.cmu.edu/resources/elibrary/everycc.htm)
 - PDF: [Valuation of a Bank Credit-Card Portfolio by Riaz Hussain](/finance/ValuationOfBankCreditCard200703.pdf)
 - PDF: [HOW BARCLAYCARD PORTUGAL CAN ACTIVATE AND ENGAGE CUSTOMERS by INÊS FILIPA PRAZERES DO ROSÁRIO](/finance/Rosário_2016.pdf) 
 - PDF: [Credit Business Trunk Howto](/finance/credit-card-biz-trunk.pdf). From https://notafintech.company/docs/credit-card-biz-trunk.pdf
